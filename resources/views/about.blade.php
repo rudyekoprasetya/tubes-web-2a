@@ -177,7 +177,7 @@
             <div class="collapse navbar-collapse" id="mainNavigation">
                 <div class="navbar-nav ms-auto gap-md-4">
                     <a class="nav-link" href="/">Home</a>
-                    <a class="nav-link" href="#gallery">Gallery</a>
+                    <a class="nav-link" href="/gallery">Gallery</a>
                     <a class="nav-link" href="/about">About</a>
                 </div>
             </div>
