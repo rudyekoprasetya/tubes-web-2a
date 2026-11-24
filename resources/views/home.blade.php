@@ -170,15 +170,15 @@
 <body>
     <nav class="navbar navbar-expand-md sticky-top border-bottom">
         <div class="container py-2">
-            <a class="navbar-brand" href="#home">profil<span style="color: var(--accent)">.</span></a>
+            <a class="navbar-brand" href="/">profil<span style="color: var(--accent)">.</span></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavigation" aria-controls="mainNavigation" aria-expanded="false" aria-label="Buka navigasi">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="mainNavigation">
                 <div class="navbar-nav ms-auto gap-md-4">
-                    <a class="nav-link" href="#home">Home</a>
-                    <a class="nav-link" href="#gallery">Gallery</a>
-                    <a class="nav-link" href="#about">About</a>
+                    <a class="nav-link" href="/">Home</a>
+                    <a class="nav-link" href="/gallery">Gallery</a>
+                    <a class="nav-link" href="/about">About</a>
                 </div>
             </div>
         </div>
